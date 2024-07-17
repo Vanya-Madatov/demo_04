@@ -814,7 +814,7 @@ section{
 	position: absolute;
 	left: 20px;
 	width: 280px;
-	bottom: 40px;
+	bottom: 80px;
 
 }
 
@@ -946,5 +946,8 @@ section{
 	}
 	.how-row-item-object {
 	    top: 20px !important;
+	}
+	.head-arrow{
+		bottom: 100px;
 	}
 }
